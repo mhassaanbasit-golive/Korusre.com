@@ -1,0 +1,6 @@
+{
+  "name": "KORUS Real Estate",
+  "description": "Institutional-grade commercial brokerage, investment acquisitions, tenant leasing, and premium property management services in Southern California.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
